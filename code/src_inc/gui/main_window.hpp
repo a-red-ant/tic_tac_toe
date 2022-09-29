@@ -2,6 +2,7 @@
 // This is a guard, it is used to avoid multiple definitions of the same thing
 #ifndef GARETH_GUI_MAIN_WINDOW_HPP__
 #define GARETH_GUI_MAIN_WINDOW_HPP__
+// Good to know :D
 
 // This is an include with <> means look for it outside of this directory, with
 // "" means look for it first in this directory
